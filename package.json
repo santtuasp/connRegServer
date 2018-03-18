@@ -1,0 +1,21 @@
+{
+  "name": "connreqserver",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "express": "~4.15.5"
+  },
+  "keywords": [
+    "example"
+   
+  ],
+  "description": "nodejs api demo",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Santtu Asp",
+  "license": "ISC",
+  "engines": {
+    "node": "7.9.0"
+  }
+}
